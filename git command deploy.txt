@@ -1,0 +1,7 @@
+make a git repositoory
+paste your complete web project
+add commit
+apply git push
+then cmd pr jakr surge likhen
+surge login 
+select folder for deploymentt
